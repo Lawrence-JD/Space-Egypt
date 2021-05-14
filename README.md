@@ -1,6 +1,6 @@
 # Space-Egypt
 
-Team members: Caroline lakatos, Emm Oriold, Michaela Cottrill, Jonathan Lawrence
+Team members: Caroline Lakatos, Emm Oriold, Michaela Cottrill, Jonathan Lawrence
 
 Controls: WASD, E to interact/swap colors, hold E to pick up certain objects, ESC to open in game menu, left/right click to use active color abilities.
 
